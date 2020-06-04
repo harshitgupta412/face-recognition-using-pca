@@ -3,6 +3,9 @@
 
 This repository includes code that using PCA - Principal Component Analysis to do various tasks.
 
+Principal component analysis (PCA) involves a mathematical procedure that transforms a number of (possibly) correlated variables into a (smaller) number of uncorrelated variables called principal components. The first principal component accounts for as much of the variability in the data as possible, and each succeeding component accounts for as much of the remaining variability as possible.
+So, in total, PCA is an algorithmm to reduce the size. But, it turns out that it can be used to recognise things and even create new representatives of the set(given some class restraint).
+
 Includes:
 1. Using PCA to find the relationship(linear) between two variables using sample datapoints
 2. Using PCA as a classifier on the iris-dataset. 
